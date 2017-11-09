@@ -1,6 +1,6 @@
 title: Study Buddy
 description: Networking to find a study friend
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
 markdown: kramdown
