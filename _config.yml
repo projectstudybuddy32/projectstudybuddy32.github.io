@@ -1,6 +1,6 @@
-title: Study Buddy
-description: Networking to find a study friend
+title: UHStudyNet
+description: Networking application to find a study friend/group for the UH Community
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
 markdown: kramdown
