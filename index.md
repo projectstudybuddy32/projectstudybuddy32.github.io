@@ -40,7 +40,7 @@ Separated tasks in order to get basics mockups of main pages:
 Contrasts sad and happy thoughts by using relatable images for college students
 
  <br>
- <img class="ui medium centered image" src="https://drive.google.com/open?id=1eE6g9lLE0wQSK3ikGh740YQDcYjzMqOc">
+ <img src="https://drive.google.com/open?id=1eE6g9lLE0wQSK3ikGh740YQDcYjzMqOc">
  <br>
 
 # Login Page
@@ -66,7 +66,7 @@ This page allows users to update their information, preferences, and image file.
 Allows users to search for other study buddies that are a match
 
  <br>
- <img class="ui medium centered image" src="/_images/AdminPage.png">
+ <img src="/_images/AdminPage.png">
  <br>
 
 # Admin Page
@@ -77,7 +77,7 @@ Shows the full user database and eventually will allow admins to flag users unde
 Admins will have access to delete accounts once they pass the red flag. 
 
  <br>
- <img class="ui medium centered image" src="/_images/AdminPage.png">
+ <img src="/_images/AdminPage.png">
  <br>
     
  
