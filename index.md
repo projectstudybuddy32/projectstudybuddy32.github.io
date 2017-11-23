@@ -17,4 +17,11 @@ Create an app that facilitates the communication and selective process needed fo
  - Facilitate communication for all stages of study group interaction
  - Build more effective groups by connecting students based on learning styles and preferences
 
-# Milestone 1
+## Milestone 1
+Separated tasks in order to get basics mockups of main pages:
+ - Landing Page
+ - Login Page
+ - Profile Page 
+ - Admin Page
+ - Search Page
+ <img class="ui medium centered image" src="../images/M1.png">
