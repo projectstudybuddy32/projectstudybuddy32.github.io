@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38307692-2eaf-422d-91a0-4ec8833aa559" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/AdminPage.png" afterPath="$PROJECT_DIR$/images/AdminPage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/EditProfilePage.png" afterPath="$PROJECT_DIR$/images/EditProfilePage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/LandingPage.png" afterPath="$PROJECT_DIR$/images/LandingPage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/M1.png" afterPath="$PROJECT_DIR$/images/M1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/SearchPage.png" afterPath="$PROJECT_DIR$/images/SearchPage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_images/UserHomePage.png" afterPath="$PROJECT_DIR$/images/UserHomePage.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="385">
-                <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <first_editor relative-caret-position="1184">
+                <caret line="84" column="33" lean-forward="true" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -119,12 +125,12 @@
             <path>
               <item name="uhstudynet.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="uhstudynet.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_images" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="uhstudynet.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="uhstudynet.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,8 +256,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="385">
-            <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <first_editor relative-caret-position="1184">
+            <caret line="84" column="33" lean-forward="true" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
