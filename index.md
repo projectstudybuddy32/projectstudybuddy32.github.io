@@ -17,6 +17,11 @@ Create an app that facilitates the communication and selective process needed fo
  - Facilitate communication for all stages of study group interaction
  - Build more effective groups by connecting students based on learning styles and preferences
 
+## Hosted Courtesy of Galaxy!
+[Check out our site](http://uhstudynet.meteorapp.com/)
+
+<br>
+
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
  - Landing Page
