@@ -33,14 +33,14 @@ Separated tasks in order to get basics mockups of main pages:
  
 
  <br>
- <img src="/images/M1.png" alt>
+ <img src="/images/M1.png">
  <br>
 
 # Landing Page
 Contrasts sad and happy thoughts by using relatable images for college students
 
  <br>
- <img src="https://drive.google.com/open?id=1eE6g9lLE0wQSK3ikGh740YQDcYjzMqOc">
+ <img src="/images/LandingPage.png">
  <br>
 
 
@@ -62,7 +62,7 @@ Each user has their own home page that shows their connections, preferences and 
 This page allows users to update their information, preferences, and image file.
 
  <br>
- <img class="ui medium centered image" src="images/EditProfilePage.png">
+ <img src="/images/EditProfilePage.png">
  <br>
 
 
@@ -70,7 +70,7 @@ This page allows users to update their information, preferences, and image file.
 Allows users to search for other study buddies that are a match
 
  <br>
- <img src="images/AdminPage.png">
+ <img src="/images/SearchPage.png">
  <br>
 
 
@@ -82,7 +82,7 @@ Shows the full user database and eventually will allow admins to flag users unde
 Admins will have access to delete accounts once they pass the red flag. 
 
  <br>
- <img src="images/AdminPage.png">
+ <img src="/images/AdminPage.png">
  <br>
     
  
