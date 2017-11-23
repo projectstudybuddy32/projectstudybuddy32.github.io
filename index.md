@@ -33,7 +33,7 @@ Separated tasks in order to get basics mockups of main pages:
  
 
  <br>
- <img src="_images/M1.png">
+ <img src="_images/M1.png" alt>
  <br>
  
 # Landing Page
@@ -52,7 +52,7 @@ This is exactly like the standard CAS login pop up page seen on UH websites
 Each user has their own home page that shows their connections, preferences and a quick summary of their school TODO tasks. 
 
  <br>
- <img class="ui medium centered image" src="_images/UserHomePage.png">
+ [userhomepage](_images/UserHomePage.png)
  <br>
  
 # Edit Profile Page
