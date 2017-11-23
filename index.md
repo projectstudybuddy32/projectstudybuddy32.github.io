@@ -17,3 +17,4 @@ Create an app that facilitates the communication and selective process needed fo
  - Facilitate communication for all stages of study group interaction
  - Build more effective groups by connecting students based on learning styles and preferences
 
+# Milestone 1
