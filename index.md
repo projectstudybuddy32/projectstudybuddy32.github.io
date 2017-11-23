@@ -23,7 +23,7 @@ Create an app that facilitates the communication and selective process needed fo
 <br>
 
 ## Milestone 1
-<p>Separated tasks in order to get basics mockups of main pages:
+Separated tasks in order to get basics mockups of main pages:
  - Landing Page
  - Login Page
  - User Home Page
@@ -35,45 +35,44 @@ Create an app that facilitates the communication and selective process needed fo
  <br>
  <img src="_images/M1.png" alt>
  <br>
-</p>
 
 # Landing Page
-<p>Contrasts sad and happy thoughts by using relatable images for college students
+Contrasts sad and happy thoughts by using relatable images for college students
 
  <br>
  <img src="https://drive.google.com/open?id=1eE6g9lLE0wQSK3ikGh740YQDcYjzMqOc">
  <br>
-</p>
+
 
 # Login Page
-<p>This is exactly like the standard CAS login pop up page seen on UH websites 
+This is exactly like the standard CAS login pop up page seen on UH websites 
 
 <br>
-</p>
+
 
 # User Home Page
-<p>Each user has their own home page that shows their connections, preferences and a quick summary of their school TODO tasks. 
+Each user has their own home page that shows their connections, preferences and a quick summary of their school TODO tasks. 
 
  <br>
- ![userhomepage](_images/UserHomePage.png)
+ <img src="_images/UserHomePage.png">
  <br>
-</p>
+
  
 # Edit Profile Page
-<p>This page allows users to update their information, preferences, and image file.
+This page allows users to update their information, preferences, and image file.
 
  <br>
  <img class="ui medium centered image" src="_images/EditProfilePage.png">
  <br>
-</p>
+
 
 # Search Page
-<p>Allows users to search for other study buddies that are a match
+Allows users to search for other study buddies that are a match
 
  <br>
  <img src="/_images/AdminPage.png">
  <br>
-</p>
+
 
 # Admin Page
 Shows the full user database and eventually will allow admins to flag users under green, yellow, or red.
@@ -85,6 +84,6 @@ Admins will have access to delete accounts once they pass the red flag.
  <br>
  <img src="/_images/AdminPage.png">
  <br>
-</p>    
+    
  
 
