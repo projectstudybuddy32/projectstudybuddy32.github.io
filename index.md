@@ -35,7 +35,7 @@ Separated tasks in order to get basics mockups of main pages:
 Contrasts sad and happy thoughts by using relatable images for college students
 
  <br>
- <img class="ui medium centered image" src="/_images/LandingPage.png">
+ <img class="ui medium centered image" src="https://drive.google.com/open?id=1eE6g9lLE0wQSK3ikGh740YQDcYjzMqOc">
  <br>
 
 # Login Page
