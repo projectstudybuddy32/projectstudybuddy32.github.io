@@ -21,6 +21,7 @@ Create an app that facilitates the communication and selective process needed fo
 [Check out our site](http://uhstudynet.meteorapp.com/)
 
 <br>
+<br>
 
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
@@ -35,6 +36,8 @@ Separated tasks in order to get basics mockups of main pages:
  <br>
  <img src="/images/M1.png">
  <br>
+ <br>
+ <br>
 
 # Landing Page
 Contrasts sad and happy thoughts by using relatable images for college students
@@ -42,11 +45,13 @@ Contrasts sad and happy thoughts by using relatable images for college students
  <br>
  <img src="/images/LandingPage.png">
  <br>
+ <br>
 
 
 # Login Page
 This is exactly like the standard CAS login pop up page seen on UH websites 
 
+<br>
 <br>
 
 
@@ -56,6 +61,8 @@ Each user has their own home page that shows their connections, preferences and 
  <br>
  <img src="/images/UserHomePage.png">
  <br>
+ <br>
+ <br>
 
  
 # Edit Profile Page
@@ -64,6 +71,8 @@ This page allows users to update their information, preferences, and image file.
  <br>
  <img src="/images/EditProfilePage.png">
  <br>
+ <br>
+ <br>
 
 
 # Search Page
@@ -71,6 +80,8 @@ Allows users to search for other study buddies that are a match
 
  <br>
  <img src="/images/SearchPage.png">
+ <br>
+ <br>
  <br>
 
 
@@ -83,6 +94,8 @@ Admins will have access to delete accounts once they pass the red flag.
 
  <br>
  <img src="/images/AdminPage.png">
+ <br>
+ <br>
  <br>
     
  
