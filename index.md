@@ -24,4 +24,15 @@ Separated tasks in order to get basics mockups of main pages:
  - Profile Page 
  - Admin Page
  - Search Page
- <img class="ui medium centered image" src="../images/M1.png">
+
+ <br>
+ <img class="ui medium centered image" src="../_images/M1.png">
+ <br>
+ 
+ # Landing Page
+Contrasts sad and happy thoughts by using relatable images for college students
+
+ <br>
+ <img class="ui medium centered image" src="../_images/LandingPage.png">
+ <br>
+ 
