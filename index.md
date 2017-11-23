@@ -21,9 +21,11 @@ Create an app that facilitates the communication and selective process needed fo
 Separated tasks in order to get basics mockups of main pages:
  - Landing Page
  - Login Page
- - Profile Page 
+ - User Home Page
+ - Edit Profile Page 
  - Admin Page
  - Search Page
+ 
 
  <br>
  <img class="ui medium centered image" src="../_images/M1.png">
@@ -35,4 +37,13 @@ Contrasts sad and happy thoughts by using relatable images for college students
  <br>
  <img class="ui medium centered image" src="../_images/LandingPage.png">
  <br>
- 
+
+# Login Page
+This is exactly like the standard CAS login pop up page seen on UH websites 
+
+# User Home Page
+
+
+ <br>
+ <img class="ui medium centered image" src="../_images/LandingPage.png">
+ <br>
