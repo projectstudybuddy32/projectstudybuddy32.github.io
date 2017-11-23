@@ -56,5 +56,24 @@ This page allows users to update their information, preferences, and image file.
  <br>
  <img class="ui medium centered image" src="/_images/EditProfilePage.png">
  <br>
+
+# Search Page
+Allows users to search for other study buddies that are a match
+
+ <br>
+ <img class="ui medium centered image" src="/_images/AdminPage.png">
+ <br>
+
+# Admin Page
+Shows the full user database and eventually will allow admins to flag users under green, yellow, or red.
+ - Green  = good standing
+ - Yellow = under warning from complaints to admin
+ - Red    = about to cross the line - could be deleted soon
+Admins will have access to delete accounts once they pass the red flag. 
+
+ <br>
+ <img class="ui medium centered image" src="/_images/AdminPage.png">
+ <br>
+    
  
 
