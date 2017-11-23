@@ -17,3 +17,5 @@ Create an app that facilitates the communication and selective process needed fo
  - Facilitate communication for all stages of study group interaction
  - Build more effective groups by connecting students based on learning styles and preferences
 
+## M1 
+<img class="ui medium centered image" src="https://drive.google.com/a/hawaii.edu/file/d/1vXu9EwD3oRCo4xTD4NqvSv4WbhS30ep-/view?usp=sharing">
