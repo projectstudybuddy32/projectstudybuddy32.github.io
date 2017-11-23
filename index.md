@@ -28,14 +28,14 @@ Separated tasks in order to get basics mockups of main pages:
  
 
  <br>
- <img class="ui medium centered image" src="../_images/M1.png">
+ <img class="ui medium centered image" src="/_images/M1.png">
  <br>
  
  # Landing Page
 Contrasts sad and happy thoughts by using relatable images for college students
 
  <br>
- <img class="ui medium centered image" src="../_images/LandingPage.png">
+ <img class="ui medium centered image" src="/_images/LandingPage.png">
  <br>
 
 # Login Page
@@ -45,5 +45,5 @@ This is exactly like the standard CAS login pop up page seen on UH websites
 
 
  <br>
- <img class="ui medium centered image" src="../_images/LandingPage.png">
+ <img class="ui medium centered image" src="/_images/LandingPage.png">
  <br>
