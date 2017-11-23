@@ -33,7 +33,7 @@ Separated tasks in order to get basics mockups of main pages:
  
 
  <br>
- <img class="ui medium centered image" src="/_images/M1.png">
+ <img src="_images/M1.png">
  <br>
  
 # Landing Page
