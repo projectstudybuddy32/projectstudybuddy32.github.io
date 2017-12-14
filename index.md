@@ -27,7 +27,9 @@ Create an app that facilitates the communication and selective process needed fo
 ##Landing Page
 <img src="/images/LandingFinal.PNG">
 <br>
-On the landing page, you can click on the login button and login through your UH email to start using our website right away. You can learn more about our application by clicking the About button. Clicking on this button will open a pop up page that will tell you more about our website and you can login through there too. 
+<img src="/images/LandingFinalAbout.PNG">
+<br>
+On the landing page, you can click on the login button to start using our website right away. You can learn more about our application by clicking the About button. Clicking the About button will bring you to a pop up page that explains our purspose and vision for the website. The Try Now button at the bottom can also be used to login.  
 
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
