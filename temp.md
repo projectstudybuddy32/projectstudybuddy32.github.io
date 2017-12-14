@@ -9,12 +9,12 @@ The development workflow that was used for this project revolved around the Issu
 ### Milestone 1: Mockup development
 <br> 
 The development span for this milestone was about 2 weeks. Our main goal in this milestone was to create a basic mockup of pages with the barebone HTML and style formatting needed to show the future vision of our site. In order to speed up development, the app was developed using the Meteor platform. Using this platform allowed us to practice templating. Flowrouters were used to achieve our page routing. 
-<br> 
+<br> <br>
 Here is a link to our Milestone 1 presentation: [Prezi](http://prezi.com/dpvnzgkwgnik/?utm_campaign=share&utm_medium=copy)
-<br> 
+<br> <br>
 ### Milestone 2: Data Aggregation and Functionality
 <br> 
 This milestone took about 3 weeks to complete. The primary focus for this milestone was to instill basic functionality. This meant that we first needed to aggregate data and create meaninful user demos to test the functionality. The operations would revolve around a data model of Javascript classes that would hold collections of the data we intended to store. 
-<br> 
+<br> <br>
 First, a BaseCollection would create a skeleton of schema handling and get and set style functionality. This class would be the parent to our ProfileCollection and InterestCollection. The ProfileCollection would hold the data for each user while the Interest Collection would hold information regarding each major initially. In the future we plan to add more study habits to the interest collection but for basic functionality purposes, we wanted to have something uniform available for our test users. 
 <br> <br> 
