@@ -63,7 +63,7 @@ On the search page, you can find your perfect study buddy! You can browse throug
 On the ranking page, you can see the ranking of all the profiles depending on their rep. You then can use this information to find your perfect study buddy!
 
 ## Admin Page
-<img src="/images/AdmiPage.PNG">
+<img src="/images/AdminPage.PNG">
 <br>
 This page can only be accessed by the specified admin. A normal user will not be able to access the information on this page. As an admin, you are able to see all the reports and who reported that person. Also as an admin you are able to delete or edit any profile. 
 
