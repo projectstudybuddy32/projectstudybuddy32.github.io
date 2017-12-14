@@ -23,6 +23,10 @@ Create an app that facilitates the communication and selective process needed fo
 <br>
 <br>
 
+# User Guide
+##Landing Page
+<img src="/images/LandingFinal.PNG">
+
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
  - Landing Page
