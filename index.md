@@ -167,7 +167,7 @@ The development workflow that was used for this project revolved around the Issu
 ## Milestone 1: Mockup development
 
 <br> 
-The development span for this [milestone](https://github.com/uhstudynet/uhstudynet/projects/2) was about 2 weeks. Our main goal in this milestone was to create a basic mockup of pages with the barebone HTML and style formatting needed to show the future vision of our site. In order to speed up development, the app was developed using the Meteor platform. Using this platform allowed us to practice templating. Flowrouters were used to achieve our page routing. 
+The development span for this [milestone](https://github.com/uhstudynet/uhstudynet/projects/1) was about 2 weeks. Our main goal in this milestone was to create a basic mockup of pages with the barebone HTML and style formatting needed to show the future vision of our site. In order to speed up development, the app was developed using the Meteor platform. Using this platform allowed us to practice templating. Flowrouters were used to achieve our page routing. 
 <br> <br>
 Here is a link to our Milestone 1 presentation: [Prezi](http://prezi.com/dpvnzgkwgnik/?utm_campaign=share&utm_medium=copy)
 <br> <br>
