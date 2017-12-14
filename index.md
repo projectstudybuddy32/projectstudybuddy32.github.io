@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About UHStudyNet
+# Overview
 
 ## The Problem:
 Many students study alone, and thus, spend more time than necessary on school work because they don't take advantage of study groups. The wasted time decreases their stamina and potentially their grades. 
