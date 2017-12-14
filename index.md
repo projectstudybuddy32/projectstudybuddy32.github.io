@@ -38,6 +38,14 @@ On the landing page, you can click on the login button to start using our websit
 <br>
 After logging in, you will be brought to the My Profile page. As a new user, your profile page will be blank, so before doing anything else, you should edit your profile and add your information. Once you have done that, you will now be able to use the functionalities of our website! On the profile page, All your information and picture will be displayed on the top left. The top right will be your to do list. Through this you can add and delete tasks that you need to do for you classes. On the buttom of the page will be your favorite study buddies. These are profiles that you have marked as a favorite and now will have easy access to them. 
 
+## Profile Cards
+<img src="/images/ProfileCards.PNG">
+<br>
+<img src="/images/ProfileCardsReport.PNG">
+<br>
+Before explaning the search and ranking page, the profile cards needs to be understood. On every profile card, there will be icons on the bottom depending on what information is available for that profile. These icons are Email, Github, Facebook, and Instagram. Every Profile will have a user icon. This icon has 3 functionalities when clicked. The first is the option to add or remove the profile from you favortie study buddies. The second option is to report the user if you had a bad experience with that study buddy. When this is clicked, you will be presented with a text box where you must write why you are reporting the user. The last option is to add 1 to the profile's rep if you liked studying with that student. This rep will be used in the ranking page. 
+
+
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
  - Landing Page
