@@ -38,6 +38,13 @@ On the landing page, you can click on the login button to start using our websit
 <br>
 After logging in, you will be brought to the My Profile page. As a new user, your profile page will be blank, so before doing anything else, you should edit your profile and add your information. Once you have done that, you will now be able to use the functionalities of our website! On the profile page, All your information and picture will be displayed on the top left. The top right will be your to do list. Through this you can add and delete tasks that you need to do for you classes. On the buttom of the page will be your favorite study buddies. These are profiles that you have marked as a favorite and now will have easy access to them. 
 
+## Edit Profile Page
+<img src="/images/EditProfileNew.PNG">
+<br>
+<img src="/images/EditProfileUpdated.PNG">
+<br>
+As a new user, your edit profile page will be blank and you can populate it with your information. As a current user, you are able to edit your profile any time through this page. Also you are able to delete your profile. 
+
 ## Profile Cards
 <img src="/images/ProfileCards.PNG">
 <br>
@@ -53,6 +60,12 @@ On the search page, you can find your perfect study buddy! You can browse throug
 ## Ranking Page
 <img src="/images/RankingPage.PNG">
 <br>
+On the ranking page, you can see the ranking of all the profiles depending on their rep. You then can use this information to find your perfect studdy buddy!
+
+## Admin Page
+<img src="/images/AdmiPage.PNG">
+<br>
+This page can only be accessed by the specified admin. A normal user will not be able to access the information on this page. As an admin, you are able to see all the reports and who reported that person. Also as an admin you are able to delete or edit any profile. 
 
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
