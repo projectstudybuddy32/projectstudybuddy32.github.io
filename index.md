@@ -45,6 +45,14 @@ After logging in, you will be brought to the My Profile page. As a new user, you
 <br>
 Before explaning the search and ranking page, the profile cards needs to be understood. On every profile card, there will be icons on the bottom depending on what information is available for that profile. These icons are Email, Github, Facebook, and Instagram. Every Profile will have a user icon. This icon has 3 functionalities when clicked. The first is the option to add or remove the profile from you favortie study buddies. The second option is to report the user if you had a bad experience with that study buddy. When this is clicked, you will be presented with a text box where you must write why you are reporting the user. The last option is to add 1 to the profile's rep if you liked studying with that student. This rep will be used in the ranking page. 
 
+## Search Page
+<img src="/images/SearchPage.PNG">
+<br>
+On the search page, you can find your perfect study buddy! You can browse through all the profiles, or you can filter the profiles depending on major. You can do this through the filter option at the top of the page. When you find a match, you can add them to your favorite study buddies and get in contact with them. After the study session, you can decide on whether to keep them as your favorite, report them, or give them plus 1 rep depending on the excperience you had. 
+
+## Ranking Page
+<img src="/images/RankingPage.PNG">
+<br>
 
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
