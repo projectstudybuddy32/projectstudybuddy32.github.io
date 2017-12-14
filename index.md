@@ -24,12 +24,19 @@ Create an app that facilitates the communication and selective process needed fo
 <br>
 
 # User Guide
-##Landing Page
+## Landing Page
 <img src="/images/LandingFinal.PNG">
 <br>
 <img src="/images/LangingFinalAbout.PNG">
 <br>
 On the landing page, you can click on the login button to start using our website right away. You can learn more about our application by clicking the About button. Clicking the About button will bring you to a pop up page that explains our purspose and vision for the website. The Try Now button at the bottom can also be used to login.  
+
+## My Profile Page
+<img src="/images/MyProfileNew.PNG">
+<br>
+<img src="/images/MyProfileUpdated.PNG">
+<br>
+After logging in, you will be brought to the My Profile page. As a new user, your profile page will be blank, so before doing anything else, you should edit your profile and add your information. Once you have done that, you will now be able to use the functionalities of our website! On the profile page, All your information and picture will be displayed on the top left. The top right will be your to do list. Through this you can add and delete tasks that you need to do for you classes. On the buttom of the page will be your favorite study buddies. These are profiles that you have marked as a favorite and now will have easy access to them. 
 
 ## Milestone 1
 Separated tasks in order to get basics mockups of main pages:
